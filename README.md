@@ -1,23 +1,125 @@
-Hi 👋 My name is Sibonelo
-=========================
+# Hi 👋, I'm Sibonelo Tholinhlanhla Mdluli
 
-Developer
----------
+## Software Developer | ASP.NET Core MVC | C# | SQL Server | PHP | Web Applications
 
-### Skills
+I am a Software Developer based in Durban, South Africa. I build professional web applications, admin dashboards, database-driven systems, and business websites using modern development tools and clean system design.
 
+I enjoy solving real problems with software, especially systems that help businesses manage data, automate work, and improve daily operations.
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+---
 
+## 💼 What I Do
 
-### Socials
+- Develop web applications using ASP.NET Core MVC and C#
+- Build database systems using SQL Server and MySQL
+- Create admin dashboards and management systems
+- Develop PHP and MySQL web applications
+- Design responsive websites using HTML, CSS, JavaScript, and Bootstrap
+- Debug, improve, and maintain existing systems
+- Build portfolio websites and business websites
 
-<p align="left"> <a href="https://www.github.com/sbonelogit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## 🛠️ Technical Skills
 
-<b>My GitHub Stats</b>
+### Backend Development
+- C#
+- ASP.NET Core MVC
+- Razor Pages
+- PHP
+- Entity Framework Core
 
-<a href="http://www.github.com/sbonelogit"><img src="https://github-readme-stats.vercel.app/api?username=sbonelogit&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sbonelogit's GitHub stats" /></a>
+### Database
+- SQL Server
+- MySQL
+- Stored Procedures
+- Database Design
+- CRUD Operations
+
+### Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Razor Views
+- Vue.js basics
+
+### Tools
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub
+- SQL Server Management Studio
+- MySQL Workbench
+- phpMyAdmin
+
+---
+
+## 🚀 Projects
+
+### Travel Application Workflow System
+A web-based approval workflow system built with ASP.NET Core MVC, C#, SQL Server, Razor Views, and stored procedures.
+
+Key features:
+- Multi-stage approval workflow
+- Admin dashboard
+- Application status tracking
+- Approver management
+- Cancellation and reversal logic
+- SQL Server stored procedure integration
+
+### Library Management System
+A PHP and MySQL system for managing books, users, requests, notifications, returns, and transactions.
+
+Key features:
+- User and admin dashboards
+- Book request system
+- Notification system
+- Book return and fee calculation
+- Search and CRUD functionality
+
+### FarmConnect
+A digital marketplace concept that connects small-scale farmers directly with consumers.
+
+Key features:
+- Farmer and customer marketplace
+- Product listings
+- Order tracking
+- Delivery coordination
+- Payment integration concept
+
+### Personal Portfolio Website
+A professional portfolio website showcasing my skills, projects, CV, and contact information.
+
+---
+
+## 📌 Currently Learning
+
+- Advanced ASP.NET Core MVC
+- Clean Architecture
+- API Development
+- Cloud Deployment
+- System Design
+- Professional UI/UX design
+
+---
+
+## 📫 Contact Me
+
+- Portfolio: https://portfolio-website-six-beta-50.vercel.app/
+- GitHub: https://github.com/sbonelogit
+- LinkedIn: www.linkedin.com/in/sibonelo-tholinhlanhla
+- Email: tholinhlanhlasbonelo@gmail.com
+
+---
+
+## 🤝 Available For
+
+- Freelance web development projects
+- Business websites
+- Admin dashboards
+- Database systems
+- ASP.NET Core MVC systems
+- PHP and MySQL systems
+- Junior software developer opportunities
+- Internship and collaboration opportunities
